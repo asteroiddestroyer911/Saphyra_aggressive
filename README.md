@@ -22,7 +22,7 @@ Overview: Saphyra Aggressive is a Python-based HTTP flooder designed for stress 
 # Usage: To use Saphyra Aggressive, run the following command in your terminal:
 
 ```bash
-python Saphyra.py <url> <port>
+python Saphyra_aggressive.py <url> <port>
 ```
 
 Replace with the target URL (must start with http:// or https://).
